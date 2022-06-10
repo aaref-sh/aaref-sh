@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Muhammad+Aaref+Al-Shami;Problem+Solver;Software+Engineer;Backend+Developer;.NET+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=550&lines=Muhammad+Aaref+Al-Shami;Problem+Solver;Software+Engineer;Backend+Developer;.NET+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <!--
 **aaref-sh/aaref-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
