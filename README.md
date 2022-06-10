@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Muhammad+Aaref+Al-Shami;Software+Engineer;Backend+Developer;Problem-Solver;.NET+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <!--
 
 <div class="container">
