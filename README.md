@@ -4,13 +4,13 @@
 <h3 align="center">A Syrian Software developer</h3>
 Personal Info:
 
- > Studied at the Syrian Virtual University (SVU) 2016-2022.
- > Started the career as a backend developer in the second year at the university
- > Worked beside seniors on several projects
- > Main technologies I use (.net framework - .net core - ASP - MVC - API - SignalR - Xamarin - Flutter).
- > Participated in the ICPC and qualified for the national final in 2019, and then in 2020.
- > Worked as an electronics technician with acadimic background and combined my electronics and programming experiences 
- > Worked on embedded systems, robotics, automating stuff, and programming microcontrollers (PIC - AVR families - Arduino).
+ > - Studied at the Syrian Virtual University (SVU) 2016-2022.
+ > - Started the career as a backend developer in the second year at the university
+ > - Worked beside seniors on several projects
+ > - Main technologies I use (.net framework - .net core - ASP - MVC - API - SignalR - Xamarin - Flutter).
+ > - Participated in the ICPC and qualified for the national final in 2019, and then in 2020.
+ > - Worked as an electronics technician with acadimic background and combined my electronics and programming experiences 
+ > - Worked on embedded systems, robotics, automating stuff, and programming microcontrollers (PIC - AVR families - Arduino).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaref-sh&label=Profile%20views&color=0e75b6&style=flat" alt="aaref-sh" /> </p>
 
