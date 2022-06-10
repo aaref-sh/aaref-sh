@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=43&vCenter=true&width=700&lines=Problem+Solver;Software+Engineer;Backend+Developer;.NET%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=43&vCenter=true&width=700&lines=Problem+Solver;Software+Engineer;Competitive+Programmer;Backend+Developer;.NET%F0%9F%92%99)](https://git.io/typing-svg)
 
 <h1 align="center">It's Muhammad Aaref Al-Shami</h1>
 <h3 align="center">A Syrian Software developer</h3>
