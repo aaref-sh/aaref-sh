@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=550&lines=Muhammad+Aaref+Al-Shami;Software+Engineer;Backend+Developer;Problem-Solver;.NET+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <!--
 **aaref-sh/aaref-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
