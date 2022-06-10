@@ -2,7 +2,7 @@
 
 <h1 align="center">It's Muhammad Aaref Al-Shami</h1>
 <h3 align="center">A Syrian Software developer</h3>
-Personal Info:
+ > Personal Info:
 
  > - Studied at the Syrian Virtual University (SVU) 2016-2022.
  > - Started the career as a backend developer in the second year at the university
