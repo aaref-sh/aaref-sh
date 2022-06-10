@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!--
 <div class="container">
     <p>Muhammad Aaref Al-Shami <span class="typed-text"></span><span class="cursor"> </span></p>
 </div>
