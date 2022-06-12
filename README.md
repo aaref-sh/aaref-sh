@@ -20,7 +20,7 @@ Personal Info:
 
 - 📧 Mail: **m.aaref-sh@hotmail.com**
 
-- Interested? Get my resume: [https://drive.google.com/file/d/1DtmQIuKHRXxnYhoNpODzMoHuqVnUZ1Gu/view?usp=sharing](https://drive.google.com/file/d/1DtmQIuKHRXxnYhoNpODzMoHuqVnUZ1Gu/view?usp=sharing)
+- Interested? Get my resume: [https://drive.google.com/file/d/1DtmQIuKHRXxnYhoNpODzMoHuqVnUZ1Gu/view?usp=sharing](here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
