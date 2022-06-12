@@ -14,13 +14,13 @@ Personal Info:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaref-sh&label=Profile%20views&color=0e75b6&style=flat" alt="aaref-sh" /> </p>
 
-- 🕹️ A short online game about me [muhammad-bio-game.netlify.app](muhammad-bio-game.netlify.app)
+- 🕹️ A short online game about me? [Try it](muhammad-bio-game.netlify.app)
 
 - 💬 Ask me about **Electronic Circuits**
 
 - 📧 Mail: **m.aaref-sh@hotmail.com**
 
-- Interested? Get my resume: [https://drive.google.com/file/d/1DtmQIuKHRXxnYhoNpODzMoHuqVnUZ1Gu/view?usp=sharing](here)
+- Interested? Get my resume: [here](https://drive.google.com/file/d/1DtmQIuKHRXxnYhoNpODzMoHuqVnUZ1Gu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
