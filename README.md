@@ -14,7 +14,7 @@ Personal Info:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaref-sh&label=Profile%20views&color=0e75b6&style=flat" alt="aaref-sh" /> </p>
 
-- 🕹️ A short online game about me? [Try it](muhammad-bio-game.netlify.app)
+- 🕹️ A short online game about me? [Try it](http://muhammad-bio-game.netlify.app)
 
 - 💬 Ask me about **Electronic Circuits**
 
